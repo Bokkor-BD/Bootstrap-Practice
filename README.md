@@ -1,2 +1,1 @@
-# Bootstrap-Practice
 # BootStarp-Practice
